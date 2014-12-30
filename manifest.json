@@ -1,7 +1,7 @@
 {
-  "name": "zenburn",
+  "name": "Zenburn - Chrome DevTools Theme",
   "version": "0.0.0",
-  "description": "Enable DevTools experiments in about:flags, toggle \"Allow UI themes\" experiment.",
+  "description": "A low-contrast color scheme for Chrome DevTools",
   "devtools_page": "devtools.html",
   "manifest_version": 2
 }
